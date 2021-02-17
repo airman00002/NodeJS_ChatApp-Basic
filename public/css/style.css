@@ -1,0 +1,24 @@
+body {
+     background-image: linear-gradient(to right, rgba(91, 181, 230, 0.267), rgb(235, 248, 253))
+    
+   }
+
+.card-header{
+     font-size: 25px;
+     
+}
+.card{
+     border-radius: 10px;
+}
+
+.card-body{
+     margin: 15px 15px;
+}
+
+.card-footer{
+   padding: 25px 25px
+ 
+}
+.info{
+     color: gray
+}
